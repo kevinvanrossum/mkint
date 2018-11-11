@@ -1,0 +1,12 @@
+*.swp
+*.swo
+*\#
+*~
+build/
+build_clang/
+.cquery_cached_index/
+compile_commands.json
+doc/auto
+doc/tutorial.pdf
+doc/tutorial.tex
+doc/tutorial.html
